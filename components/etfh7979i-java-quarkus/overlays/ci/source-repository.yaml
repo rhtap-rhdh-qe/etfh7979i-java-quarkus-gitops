@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: etfh7979i-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/etfh7979i-java-quarkus
